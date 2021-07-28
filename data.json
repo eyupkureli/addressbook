@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "fullName": "Eyup Kureli",
+    "address": "321 Chase Road N146JT",
+    "phone": "7570271020"
+  },
+  {
+    "id": 2,
+    "fullName": "Tom Hanks",
+    "address": "15 Hanks Road N115TH",
+    "phone": "7722556699"
+  },
+  {
+    "id": 3,
+    "fullName": "Will Smith",
+    "address": "12 Will Road N106WS",
+    "phone": "7545253302"
+  }
+]
